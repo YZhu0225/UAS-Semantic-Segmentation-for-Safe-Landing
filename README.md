@@ -1,4 +1,4 @@
-# IDS705_Final_Team2
+# UAV Residential Semantic Segmentation for Safe Landing
 Demo: https://youtu.be/ixSwwZ-mRp0
 
 ## Purpose:
